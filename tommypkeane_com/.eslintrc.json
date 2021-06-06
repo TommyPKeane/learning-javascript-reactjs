@@ -17,12 +17,14 @@
     },
     "plugins": [
         "react",
-        "@typescript-eslint"
+        "@typescript-eslint",
+        "storybook"
     ],
     "rules": {
         "quote-props": ["error", "always"],
         "jsx-quotes": ["error", "prefer-double"],
-        "quotes": ["error", "double"]
+        "quotes": ["error", "double"],
+        "storybook/prefer-csf": "error"
     },
     "settings": {
         "react": {
