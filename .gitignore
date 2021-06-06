@@ -1,8 +1,9 @@
 # direnv Virtual Environments
 .direnv/
 
-# node.js (npm) Modules and Packages
+# node.js (npm) Modules, Packages, and Build Artifacts
 **/node_modules/
+**/build/
 
 # macOS
 .DS_Store

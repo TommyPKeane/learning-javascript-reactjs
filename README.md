@@ -74,6 +74,34 @@ That will get rid of the embedded git repo, and you can just use the outer proje
 
 These are the example React.js apps made available in this repo.
 
+To use the build and use these apps locally, you will want to `cd` into the app directory, and then run the following:
+
+```bash
+npm run start
+```
+
+This will create the local development build after a minute, and you'll see a message like this, and then your default web-browser will open to the `localhost` address:
+
+```bash
+Compiled successfully!
+
+You can now view tommypkeane_com in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.999.999:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+```
+
+As it says at the end, if you want to "build" the app to host on a server, you can run `npm run build` and you'll find a full, hostable app in the `build` directory.
+
+If you have access to a webserver and your webserver application is pointing to `/var/www/html/`, as an example, then you'll want to copy the `build/` directory contents into that directory, so that you should see a file like `/var/www/html/index.html` in your server's filesystem.
+
+The server is the computer running the webserver application (Apache, Nginx, etc.).
+
+If the webapp has been updated with a testing framework like `jest` or `storybook`, you should also have `npm run test` as a script/command that can run (per the `package.json`) to confirm the functionality of the unit-tests.
+
 ### `tommypkeane_com`
 
 Personal website of me, Tommy P. Keane, created in June 2021 as a personal portfolio and educational infotainment website.
