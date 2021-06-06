@@ -2,4 +2,7 @@
 .direnv/
 
 # node.js (npm) Modules and Packages
-**/node_modules/**
+**/node_modules/
+
+# macOS
+.DS_Store
