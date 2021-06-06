@@ -56,3 +56,21 @@ We'd of course suggest setting up `git` and creating a  `.gitignore` file with t
 # node.js (npm) Modules and Packages
 **/node_modules/**
 ```
+
+Note that `create-react-app` will create an embedded `.git` directory as a git repostitory, which you may not want -- I didn't. So, you'll have to run:
+
+```bash
+rm -rf tommypkeane_com/.git/
+```
+
+That will get rid of the embedded git repo, and you can just use the outer project repo. I prefer this because then you can manage one or more react apps in the same project (repo), and you can also have control over `npm` and `python` with `direnv` when initially setting-up the app.
+
+## Example Apps
+
+These are the example React.js apps made available in this repo.
+
+### `tommypkeane_com`
+
+Personal website of me, Tommy P. Keane, created in June 2021 as a personal portfolio and educational infotainment website.
+
+Visit https://www.tommypkeane.com to see this site live.
