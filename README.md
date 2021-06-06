@@ -2,15 +2,16 @@
 
 These are React.js website examples created by me, Tommy P. Keane -- provided here for reference and educational purposes.
 
-<!-- MarkdownTOC -->
+<!-- MarkdownTOC autolink="true" -->
 
-- Original Setup
-- Example Apps
-  - `tommypkeane_com`
-- How to Develop
-  - React.js Debugging Links
+- [Original Setup](#original-setup)
+- [Example Apps](#example-apps)
+  - [`tommypkeane_com`](#tommypkeane_com)
+- [How to Develop](#how-to-develop)
+  - [React.js Debugging Links](#reactjs-debugging-links)
 
 <!-- /MarkdownTOC -->
+
 
 ## Original Setup
 
