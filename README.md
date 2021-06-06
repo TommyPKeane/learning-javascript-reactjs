@@ -3,6 +3,11 @@
 These are React.js website examples created by me, Tommy P. Keane -- provided here for reference and educational purposes.
 
 <!-- MarkdownTOC -->
+
+- Original Setup
+- Example Apps
+  - `tommypkeane_com`
+
 <!-- /MarkdownTOC -->
 
 ## Original Setup
