@@ -107,3 +107,5 @@ If the webapp has been updated with a testing framework like `jest` or `storyboo
 Personal website of me, Tommy P. Keane, created in June 2021 as a personal portfolio and educational infotainment website.
 
 Visit https://www.tommypkeane.com to see this site live.
+
+See the local [README.md](./tommypkeane_com/README.md) for more details.
