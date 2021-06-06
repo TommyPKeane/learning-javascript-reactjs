@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Initial Setup
+
+### Setting-up Storybook for React.js
+
+```bash
+npx sb init
+```
+
 ## Available Scripts
 
 In the project directory, you can run:

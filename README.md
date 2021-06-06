@@ -7,6 +7,8 @@ These are React.js website examples created by me, Tommy P. Keane -- provided he
 - Original Setup
 - Example Apps
   - `tommypkeane_com`
+- How to Develop
+  - React.js Debugging Links
 
 <!-- /MarkdownTOC -->
 
@@ -109,3 +111,13 @@ Personal website of me, Tommy P. Keane, created in June 2021 as a personal portf
 Visit https://www.tommypkeane.com to see this site live.
 
 See the local [README.md](./tommypkeane_com/README.md) for more details.
+
+## How to Develop
+
+This section has some links and details related to how to develop a React.js app. The code provided should give some different examples with different degrees of complexity, but it may help to also have some standalone explanations and reference links.
+
+### React.js Debugging Links
+
+Some links that may help with debugging React.js code and dealing with any confusing issues.
+
+- https://stackoverflow.com/questions/45930746/module-not-found-when-import-jsx-file
