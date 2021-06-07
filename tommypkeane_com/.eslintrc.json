@@ -21,6 +21,7 @@
         "storybook"
     ],
     "rules": {
+        "max-len": ["warn", {"code": 100}],
         "quote-props": ["error", "always"],
         "jsx-quotes": ["error", "prefer-double"],
         "quotes": ["error", "double"],

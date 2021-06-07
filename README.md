@@ -122,3 +122,4 @@ This section has some links and details related to how to develop a React.js app
 Some links that may help with debugging React.js code and dealing with any confusing issues.
 
 - https://stackoverflow.com/questions/45930746/module-not-found-when-import-jsx-file
+- https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets

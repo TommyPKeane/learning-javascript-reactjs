@@ -1,2 +1,5 @@
 # JSDoc Output
 docs/
+
+# Storybook Build
+storybook-static/
